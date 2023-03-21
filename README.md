@@ -4,7 +4,7 @@ Covered
 * Valueless attributes (like `disabled`)
 * Style tag. Played with style briefly
 
-Next time:
+Suggestion for next time:
 * Recap: what is HTML. What is CSS, Tags, attributes
 * Forms: `<input placeholder="Put your email here" value="test" disabled />`
 * head and body tags
