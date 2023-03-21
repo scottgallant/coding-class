@@ -15,3 +15,4 @@ Suggestion for next time:
 *   Colors: https://www.w3schools.com/tags/ref_colornames.asp
 Adding
 * Open coding for last 30 mins: mess with your stuff
+* Commit to GitHub!
