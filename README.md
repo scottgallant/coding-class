@@ -8,6 +8,7 @@ Suggestion for next time:
 * Recap: what is HTML. What is CSS, Tags, attributes
 * Forms: `<input placeholder="Put your email here" value="test" disabled />`
 * head and body tags
+* CSS selectors: classes and IDs
 * play more with styles:
 *   Ask for design feedback, make my site better. 
 *   Link to a separate style sheet
