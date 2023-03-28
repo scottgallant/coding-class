@@ -6,7 +6,7 @@
 * Challenge: can you figure out how to link back to your first page from page2? 
 
 
-## Suggestions:
+## Suggestions for next week:
 * Recap with slides: https://docs.google.com/presentation/d/1ATFAdaQt9PxJawrUGoPScET5o4wCWMh63HxW57h44Go/edit#slide=id.g21037fae850_0_188
   * basic HTML tags
   * Document Structure
