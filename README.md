@@ -1,3 +1,14 @@
-# teaching---class-1
+* Recap from last time.
+* Reviewed slides
+* Reviewed linking to Page2
+* Added style.css and linked to that from index
+* Linked to style.css from page2 as well
+* How to style an image differently on page 2 and index? (classes or IDs)
+* Added Google fonts to site
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-tkfhsk)
+Next time:
+* Recap google fonts
+* spruce up page 1 and page 2
+* How to style an image differently on page 2
+* Add colours
+* 
