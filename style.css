@@ -1,0 +1,22 @@
+/* This is not HTML. It's CSS */
+html {
+  background: red;
+  color: white;
+  font-family: 'Rubik Pixels', cursive;
+  font-weight: 400;
+}
+body {
+  width: 200px;
+  margin: auto;
+}
+h1 {
+  font-weight: 400;
+}
+p {
+  background: black;
+}
+img {
+  border-width: 10px;
+  border-color: yellow;
+  border-style: solid;
+}
