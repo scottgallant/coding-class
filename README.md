@@ -1,3 +1,3 @@
-# teaching---class-1
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-tkfhsk)
+Covered:
+More google fonts.
+Spent the whole class debugging code for the students :( 
